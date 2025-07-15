@@ -114,3 +114,5 @@ require (
 # PR Merge: 2025-10-15 - refactor/merge-1788
 
 # PR Merge: 2025-10-15 - refactor/merge-7091
+
+# PR Merge: 2025-10-15 - docs/merge-4867
